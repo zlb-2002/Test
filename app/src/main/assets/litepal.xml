@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Account"></dbname>
+
+    <version value="2"></version>
+
+    <list>
+        <mapping class="com.example.chatui.Login"></mapping>
+        <mapping class="com.example.chatui.Record"></mapping>
+    </list>
+
+</litepal>
